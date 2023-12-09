@@ -1,0 +1,25 @@
+App um ...
+Rezepte zu erstellen
+Rezepte zu löschen
+Rezepte zu lesen
+Rezepte zu aktualisieren
+Einkaufsliste basierend auf Rezepten zu erstellen
+Externe Seiten/Rezepte einzulesen
+Wochenplan für Lebensmittel zu erstellen
+... und über mehrere Geräte aktuell zu halten/zu synchronisieren
+
+
+
+### 25.11.2023
+VS Code installiert
+Python installiert
+Environment variable angelegt
+Ordner angelegt und diese Datei
+-----
+Virual Environment angelegt für Projekt
+    py -3 -m venv .venv
+    .venv\Scripts\activate
+Flask installiert
+    pip install Flask
+PIP aktualisiert auf 23.3.1
+----
